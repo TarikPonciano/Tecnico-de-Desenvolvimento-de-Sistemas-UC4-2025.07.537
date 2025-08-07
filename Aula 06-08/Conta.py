@@ -19,7 +19,8 @@ class Conta:
             print("Valor do saque deve ser positivo!")
             return
         elif valor > self.saldo:
-            print("Saldo insuficiente para saque!")
+            print(
+                f"Saldo insuficiente para saque! Você tentou sacar R$ {valor:.2f} porém seu é R$ {self.saldo:.2f} ")
             return
         else:
             self.saldo -= valor
