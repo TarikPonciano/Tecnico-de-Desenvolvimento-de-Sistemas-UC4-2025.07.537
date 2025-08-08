@@ -1,1 +1,1 @@
-# Crie uma classe Veiculo e implemente pelo menos 3 subclasses de veículo. Os veiculos devem possuir pelo menos 4 atributos e ser capazes de acelerar, parar e mostrar informações.
+# Crie um sistema de consumo de itens multimídia. Nesse sistema estão presentes Filmes, Livros e Músicas. Crie uma superclasse "Midia" que contém pelo menos 5 atributos comuns à qualque mídia e que possua pelo menos 3 métodos (operações que podem ser feitos com ele). Implemente as subclasses Filmes, Livros e Músicas e crie pelo menos 1 método único para cada um.
