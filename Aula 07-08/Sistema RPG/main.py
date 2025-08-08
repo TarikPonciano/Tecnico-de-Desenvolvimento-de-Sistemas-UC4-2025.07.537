@@ -6,8 +6,6 @@ p2 = Personagem("Merlin", "Mago", 1)
 
 print(p2._nome)
 
-p2.subir_nivel()
-p2.subir_nivel()
 
 while True:
     p1.atacar(p2)

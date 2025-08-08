@@ -35,3 +35,4 @@ class Produto:
     def aplicar_desconto_permanente(self, percentual):
         self.preco = self.preco * (1 - percentual/100)
         return self.preco
+

@@ -1,0 +1,1 @@
+# Crie uma classe Veiculo e implemente pelo menos 3 subclasses de veículo. Os veiculos devem possuir pelo menos 4 atributos e ser capazes de acelerar, parar e mostrar informações.
